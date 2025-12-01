@@ -11,12 +11,13 @@ Dann esse ich Abendbrot. Dann gehe ich schlafen.
 Hallo! Hier beschreibe ich meine Tagesroutine.
 Ich stehe um 7:30 Uhr auf. Dann frühstücke ich
 oft Brot mit Avocado. Dann gehe ich zur Arbeit.
-Dann esse ich mein Mittagessen. Dann kome ich
+Dann esse ich mein Mittagessen. Dann komme ich
 nach Hause. Dann esse ich mein Abendbrot. Dann
 gehe ich schlafen.
 */
 /*
 Vocabulario util:
+nach Hause = toward home
 nach der Arbeit = after working
 ins Bett gehen = going to the bed
 */
